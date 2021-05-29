@@ -1,1 +1,1 @@
-# https://cychowai.github.io/faceapi.io/
+# https://faceapi.io/
